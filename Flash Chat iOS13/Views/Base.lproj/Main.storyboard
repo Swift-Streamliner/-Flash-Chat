@@ -377,7 +377,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="wAW-Tp-enb"/>
+        <segue reference="wh1-DL-Lfa"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="paperplane.fill" catalog="system" width="128" height="121"/>
